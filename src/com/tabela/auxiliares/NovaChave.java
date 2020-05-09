@@ -7,7 +7,7 @@ public class NovaChave {
 	
 	public String limite(Double grau_esferico,Double grau_cilindrico) {
 		 
-		
+		int var = 1;
 	 	         Double esferico_final = grau_esferico  ;
 	             Double esferico_inical = grau_esferico ;
 		         Double cilindrico_final = grau_cilindrico;
