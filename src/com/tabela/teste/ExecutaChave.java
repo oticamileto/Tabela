@@ -8,7 +8,7 @@ public class ExecutaChave {
 		// TODO Auto-generated method stub
         Chave conv = new Chave();
 		
-		System.out.println(conv.limite(+2.00,-2.0));
+		System.out.println(conv.limite(+2.00,-3.0));
 
 
 	}

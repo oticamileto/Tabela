@@ -81,7 +81,7 @@ $(function(){
             <div class="conteudo">Conteudo 3</div>
         </div>
         <div class="rodape">
-            Rodapé
+            Rodape
         </div>
     </div>   
 </body>
