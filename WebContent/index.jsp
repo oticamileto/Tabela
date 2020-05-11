@@ -18,6 +18,8 @@ function validaNumero(value){
 </head>
 <body onload="window.scrollTo(0,1);">
 <h1>Alterado</h1>
+<h2>de novo</h2>
+<h3>Aqui não foi</h3>
 <div class="container">
 <div class="grupo_1">
 <div class="receita">
