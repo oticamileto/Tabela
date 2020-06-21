@@ -19,7 +19,7 @@ public class Conexao {
 		try {
 			DriverManager.registerDriver(new com.mysql.jdbc.Driver());    
 		return DriverManager.getConnection(
-		"jdbc:mysql://localhost/lm", "root", "admin");
+		"jdbc:mysql://localhost/mileto", "root", "admin");
 		} catch (SQLException e) {
 		throw new RuntimeException(e);
 		}
